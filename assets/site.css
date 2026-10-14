@@ -283,3 +283,6 @@ body.is-solid .tg-header{position:relative;background:var(--ink)}
   .tg-hero__img--bahamas{object-position:50% 55%}
   .tg-hero h1{font-size:clamp(60px,9vw,150px)}
 }
+
+.tg-gal__video .tg-video--short{max-width:min(420px,100%);margin:0 auto}
+.tg-video--short .tg-video__frame{max-height:85vh;margin:0 auto}
